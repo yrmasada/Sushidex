@@ -13,6 +13,7 @@
 		96A026501CC55C8E006B4CF7 /* sushidex.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 96A0264E1CC55C8E006B4CF7 /* sushidex.xcdatamodeld */; };
 		96A026521CC55C8E006B4CF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96A026511CC55C8E006B4CF7 /* Assets.xcassets */; };
 		96A026551CC55C8E006B4CF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96A026531CC55C8E006B4CF7 /* LaunchScreen.storyboard */; };
+		96BB33A81CC560BD00A1F551 /* Sushi.csv in Resources */ = {isa = PBXBuildFile; fileRef = 96BB33A71CC560BD00A1F551 /* Sushi.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		96A026511CC55C8E006B4CF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96A026541CC55C8E006B4CF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96A026561CC55C8E006B4CF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96BB33A71CC560BD00A1F551 /* Sushi.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sushi.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				96A026471CC55C8E006B4CF7 /* AppDelegate.swift */,
 				96A026491CC55C8E006B4CF7 /* ViewController.swift */,
+				96BB33A71CC560BD00A1F551 /* Sushi.csv */,
 				96A0264B1CC55C8E006B4CF7 /* Main.storyboard */,
 				96A026511CC55C8E006B4CF7 /* Assets.xcassets */,
 				96A026531CC55C8E006B4CF7 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 				96A026551CC55C8E006B4CF7 /* LaunchScreen.storyboard in Resources */,
 				96A026521CC55C8E006B4CF7 /* Assets.xcassets in Resources */,
 				96A0264D1CC55C8E006B4CF7 /* Main.storyboard in Resources */,
+				96BB33A81CC560BD00A1F551 /* Sushi.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +296,7 @@
 				96A0265B1CC55C8E006B4CF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
