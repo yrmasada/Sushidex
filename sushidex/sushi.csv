@@ -1,0 +1,154 @@
+id,identifier,sid,mcat,scat,etc,english,kanji,japanese,keyword1,keyword2,keyword3,cost,description,ready,rare
+1,maguro akami,SN001,Sushi,Nigiri,Nigiri (fish-akami),tuna,鮪,トロ,nigiri,red,fish,1,Maguro or Tuna is the most famous Edo style nigiri sushi. Tuna.,OK,no
+2,maguro toro,SN002,Sushi,Nigiri,Nigiri (fish-akami),tuna belly,中トロ,ちゅうトロ,nigiri,fatty,fish,2,Toro or Tuna Belly is from the upper belly section. Melts in the mouth.,OK,no
+3,maguro otoro,SN003,Sushi,Nigiri,Nigiri (fish-akami),supreme tuna belly,大トロ,大トロ,nigiri,fatty,fish,3,Otoro or Supreme Tuna Belly is the lowest part of the belly section.,OK,no
+4,maguro zuke,SN004,Sushi,Nigiri,Nigiri (fish-akami),marinated tuna,漬け,漬け,nigiri,,,,coming soon…,OK,no
+5,bintoro,SN005,Sushi,Nigiri,Nigiri (fish-akami),albacore,ビントロ,ビントロ,nigiri,,,,Also known as ‘White Tuna’,OK,no
+6,katsuo,SN006,Sushi,Nigiri,Nigiri (fish-akami),bonito,鰹,鰹,nigiri,,,,coming soon…,OK,no
+7,syake,SN007,Sushi,Nigiri,Nigiri (fish-shiromi),salmon,鮭,鮭,nigiri,,,,coming soon…,OK,no
+8,toro salmon,SN008,Sushi,Nigiri,Nigiri (fish-shiromi),salmon belly,トロサーモン,トロサーモン,nigiri,,,,coming soon…,OK,no
+9,aburi salmon,SN009,Sushi,Nigiri,Nigiri (fish-shiromi),top grilled salmon,炙りサーモン,炙りサーモン,nigiri,,,,coming soon…,OK,no
+10,hirame,SN010,Sushi,Nigiri,Nigiri (fish-shiromi),fluke,平目,平目,nigiri,,,,coming soon…,OK,no
+11,karei,SN011,Sushi,Nigiri,Nigiri (fish-shiromi),flounder,鰈,鰈,nigiri,,,,coming soon…,OK,no
+12,engawa,SN012,Sushi,Nigiri,Nigiri (fish-shiromi),dorsal fin muscle,縁側,縁側,nigiri,,,,Usually karei.,OK,no
+13,tai,SN013,Sushi,Nigiri,Nigiri (fish-shiromi),sea bream,鯛,鯛,nigiri,,,,coming soon…,OK,no
+14,madai,SN014,Sushi,Nigiri,Nigiri (fish-shiromi),red sea bream,真鯛,真鯛,nigiri,,,,coming soon…,OK,no
+15,hiramasa,SN015,Sushi,Nigiri,Nigiri (fish-shiromi),yellowtail amberjack,平政,平政,nigiri,,,,coming soon…,OK,no
+16,mutsu,SN016,Sushi,Nigiri,Nigiri (fish-shiromi),bluefish,ムツ,ムツ,nigiri,,,,coming soon…,OK,no
+17,fugu,SN017,Sushi,Nigiri,Nigiri (fish-shiromi),putter fish,河豚,河豚,nigiri,,,,coming soon…,OK,yes
+18,ankou,SN018,Sushi,Nigiri,Nigiri (fish-shiromi),monkfish,鮟鱇,鮟鱇,nigiri,,,,coming soon…,OK,yes
+19,hamachi,SN019,Sushi,Nigiri,Nigiri (fish-aose),young yellowtail,はまち,はまち,nigiri,,,,Also known as Inada. ,OK,no
+20,aji,SN020,Sushi,Nigiri,Nigiri (fish-aose),horse mackerel,鯵,鯵,nigiri,,,,coming soon…,OK,no
+21,saba,SN021,Sushi,Nigiri,Nigiri (fish-aose),mackerel,鯖,鯖,nigiri,,,,coming soon…,OK,no
+22,sanma,SN022,Sushi,Nigiri,Nigiri (fish-aose),saury,秋刀魚,秋刀魚,nigiri,,,,coming soon…,OK,no
+23,kohada,SN023,Sushi,Nigiri,Nigiri (fish-aose),yellowfin tuna,黄肌,黄肌,nigiri,,,,coming soon…,OK,no
+24,iwashi,SN024,Sushi,Nigiri,Nigiri (fish-aose),sardine,鰯,鰯,nigiri,,,,coming soon…,OK,no
+25,buri,SN025,Sushi,Nigiri,Nigiri (fish-aose),adult yellowtail,鰤,鰤,nigiri,,,,coming soon…,OK,no
+26,akagai,SN026,Sushi,Nigiri,Nigiri (shell),ark shell,赤貝,赤貝,nigiri,,,,coming soon…,OK,
+27,hotate,SN027,Sushi,Nigiri,Nigiri (shell),scallop,帆立貝,帆立貝,nigiri,,,,coming soon…,OK,no
+28,mirugai,SN028,Sushi,Nigiri,Nigiri (shell),surf clam,みるがい,みるがい,nigiri,,,,coming soon…,OK,no
+29,hokkigai,SN029,Sushi,Nigiri,Nigiri (shell),surf clam,ほっき貝,ほっき貝,nigiri,,,,coming soon…,OK,no
+30,awabi,SN030,Sushi,Nigiri,Nigiri (shell),abalone,鮑,鮑,nigiri,,,,coming soon…,OK,no
+31,aoyagi,SN031,Sushi,Nigiri,Nigiri (shell),round clam,青柳,青柳,nigiri,,,,coming soon…,OK,no
+32,hamaguri,SN032,Sushi,Nigiri,Nigiri (shell),clam,蛤,蛤,nigiri,,,,coming soon…,OK,no
+33,kaki,SN033,Sushi,Nigiri,Nigiri (shell),oyster,牡蠣,牡蠣,nigiri,,,,coming soon…,OK,
+34,ebi,SN034,Sushi,Nigiri,Nigiri (other),shrimp,海老,海老,nigiri,,,,coming soon…,OK,no
+35,ama ebi,SN035,Sushi,Nigiri,Nigiri (other),raw shrimp,甘海老,甘海老,nigiri,,,,coming soon…,OK,no
+36,shako,SN044,Sushi,Nigiri,Nigiri (other),mannish shrimp,蝦蛄,蝦蛄,nigiri,,,,Also known as ‘Squilla’.,OK,yes
+37,anago,SN036,Sushi,Nigiri,Nigiri (other),conger eel,穴子,穴子,nigiri,,,,coming soon…,OK,no
+38,unagi,SN037,Sushi,Nigiri,Nigiri (other),eel,鰻,鰻,nigiri,,,,coming soon…,OK,no
+39,tako,SN038,Sushi,Nigiri,Nigiri (other),octopus,蛸,蛸,nigiri,,,,coming soon…,OK,no
+40,nama tako,SN039,Sushi,Nigiri,Nigiri (other),raw octopus,生蛸,生蛸,nigiri,,,,coming soon…,OK,no
+41,ika,SN040,Sushi,Nigiri,Nigiri (other),squid,イカ,イカ,nigiri,,,,coming soon…,OK,no
+42,nama geso,SN046,Sushi,Nigiri,Nigiri (other),raw squid tentacle,生ゲソ,生ゲソ,nigiri,,,,coming soon…,OK,no
+43,kani,SN042,Sushi,Nigiri,Nigiri (other),crab,蟹,蟹,nigiri,,,,coming soon…,OK,no
+44,kani kama,SN043,Sushi,Nigiri,Nigiri (other),imitation crab,カニカマ,カニカマ,nigiri,,,,coming soon…,OK,no
+45,kazunoko,SN041,Sushi,Nigiri,Nigiri (other),herring roe,数の子,数の子,nigiri,,,,coming soon…,OK,no
+46,tamago,SN045,Sushi,Nigiri,Nigiri (other),sweet egg roll,玉子,玉子,nigiri,,,,coming soon…,OK,no
+47,negitoro,SG001,Sushi,Gunkan,Gunkan (fish),tuna belly and green onion,ネギトロ,ネギトロ,,,,,coming soon…,OK,no
+48,ikura,SG002,Sushi,Gunkan,Gunkan (fish),salmon roe,イクラ,イクラ,,,,,coming soon…,OK,no
+49,uni,SG003,Sushi,Gunkan,Gunkan (fish),sea urchin roe,雲丹,雲丹,,,,,coming soon…,OK,no
+50,shirasu,SG004,Sushi,Gunkan,Gunkan (fish),baby sardine,しらす,しらす,,,,,coming soon…,OK,no
+51,shirako,SG005,Sushi,Gunkan,Gunkan (fish),cod sperm,白子,白子,,,,,coming soon…,OK,RARE
+52,yukke,SG006,Sushi,Gunkan,Gunkan (fish),chopped tuna,ユッケ,ユッケ,,,,,coming soon…,OK,no
+53,kujira,SG007,Sushi,Gunkan,Gunkan (fish),whale,鯨,鯨,,,,,coming soon…,OK,RARE
+54,sazae,SG008,Sushi,Gunkan,Gunkan (shell),horned turban shell,栄螺,栄螺,,,,,coming soon…,OK,RARE
+55,kani miso,SG009,Sushi,Gunkan,Gunkan (crab),crab brain,蟹味噌,蟹味噌,,,,,coming soon…,OK,no
+56,ebi mayo,SG010,Sushi,Gunkan,Gunkan (shrimp),shrimp mayonnaise,海老マヨ,海老マヨ,,,,,coming soon…,OK,no
+57,natto,SG011,Sushi,Gunkan,Gunkan (vegetable),natto,納豆,納豆,,,,,coming soon…,OK,no
+58,ume,SG012,Sushi,Gunkan,Gunkan (vegetable),japanese plum,梅,梅,,,,,coming soon…,OK,no
+59,corn,SG013,Sushi,Gunkan,Gunkan (vegetable),corn,コーン,コーン,,,,,coming soon…,OK,no
+60,tuna salad,SG014,Sushi,Gunkan,Salad,tuna salad,ツナサラダ,ツナサラダ,,,,,coming soon…,OK,no
+61,avocado salad,SG015,Sushi,Gunkan,Salad,avocado salad,アボカドサラダ,アボカドサラダ,,,,,coming soon…,OK,no
+62,tekka maki,SM001,Sushi,Makimono,,tuna roll,鉄火巻き,鉄火巻き,,,,,coming soon…,OK,no
+63,kappa maki,SM002,Sushi,Makimono,,cucumber roll,かっぱ巻き,かっぱ巻き,,,,,coming soon…,OK,no
+64,natto maki,SM003,Sushi,Makimono,,fermented-soybean roll,納豆巻き,納豆巻き,,sticky,,,coming soon…,OK,no
+65,shinko maki,SM004,Sushi,Makimono,,pickle daikon roll,しんこ巻き,しんこ巻き,,,,,coming soon…,OK,no
+66,kanpyo maki,SM005,Sushi,Makimono,,pickled gourd roll,かんぴょう巻き,かんぴょう巻き,,,,,coming soon…,OK,no
+67,shibaduke maki,SM006,Sushi,Makimono,,pickled cucumber,柴漬巻き,柴漬巻き,,,,,coming soon…,OK,no
+68,yamagobou maki,SM007,Sushi,Makimono,,burdock root,山牛蒡,山牛蒡,,,,,coming soon…,OK,no
+69,ume jiso maki,SM008,Sushi,Makimono,,plum and perilla-leaf roll,梅じそ巻,梅じそ巻,,,,,coming soon…,OK,no
+70,ana kyu maki,SM009,Sushi,Makimono,,conger eel and cucumber roll,あなきゅう巻,あなきゅう巻,,,,,coming soon…,OK,RARE
+71,ebi fry maki,SM010,Sushi,Makimono,,fried shrimp,海老フライ,海老フライ,,,,,coming soon…,OK,RARE
+72,futomaki maki,SM011,Sushi,Makimono,,large roll,太巻き,太巻き,,,,,Multiple ingredients.,OK,no
+73,tekka temaki,ST001,Sushi,Temaki,,tuna hand roll,鉄火手巻き,鉄火手巻き,,,,,coming soon…,OK,
+74,kappa temaki,ST002,Sushi,Temaki,,cucumber hand roll,かっぱ手巻き,かっぱ手巻き,,,,,coming soon…,OK,
+75,natto temaki,ST003,Sushi,Temaki,,fermented-soybean hand roll,納豆手巻き,納豆手巻き,,,,,coming soon…,OK,
+76,oshinko temaki,ST004,Sushi,Temaki,,pickle daikon hand roll,お新香手巻き,お新香手巻き,,,,,coming soon…,OK,
+77,kanpyo temaki,ST005,Sushi,Temaki,,pickled gourd hand roll,かんぴょう手巻き,かんぴょう手巻き,,,,,coming soon…,OK,
+78,shibaduke temaki,ST006,Sushi,Temaki,,pickled cucumber hand roll,柴漬手巻き,柴漬手巻き,,,,,coming soon…,OK,
+79,yamagobou temaki,ST007,Sushi,Temaki,,burdock root hand roll,山牛手巻き,山牛手巻き,,,,,coming soon…,OK,
+80,ume jiso temaki,ST008,Sushi,Temaki,,plum and perilla-leaf hand roll,梅じそ手巻き,梅じそ手巻き,,,,,coming soon…,OK,
+81,ana kyu temaki,ST009,Sushi,Temaki,,conger eel and cucumber hand roll,あなきゅう手巻き,あなきゅう手巻き,,,,,coming soon…,OK,
+82,ebi fry tmaki,ST010,Sushi,Temaki,,fried shrimp,海老フライ手巻き,海老フライ手巻き,,,,,coming soon…,OK,RARE
+83,tamago temaki,ST011,Sushi,Temaki,,egg roll,玉子手巻き,玉子手巻き,,,,,coming soon…,OK,
+84,ikura temaki,ST012,Sushi,Temaki,,salmon roe hand roll,イクラ手巻き,イクラ手巻き,,,,,coming soon…,OK,
+85,inari,SO001,Sushi,Oshi,,fried tofu pouch,稲荷寿司,稲荷寿司,nigiri,,,,coming soon…,OK,no
+86,battera,SO002,Sushi,Oshi,,pressed mackerel ,バッテラ,バッテラ,pressed,,,,coming soon…,OK,no
+87,saba bouzushi,SO003,Sushi,Oshi,,pushed mackerel,サバ棒寿し,サバ棒寿し,,,,,coming soon…,OK,
+88,kani mayo roll,SS001,Sushi,Special Roll,,crab mayonnaise,太巻き,太巻き,,,,,coming soon…,,RARE
+89,calfornia roll,SS002,Sushi,Special Roll,,calfornia roll,カリフォルニアロール,カリフォルニアロール,,,,,coming soon…,,RARE
+90,spicy tuna roll,SS003,Sushi,Special Roll,,spicy tuna roll,スパイシーツナロール,スパイシーツナロール,,,,,coming soon…,,no
+91,spicy salmon roll,SS004,Sushi,Special Roll,,spicy salmon roll,スパイシーサーモンロール,スパイシーサーモンロール,,,,,coming soon…,,no
+92,new york roll,SS005,Sushi,Special Roll,,new york roll,ニューヨークロール,ニューヨークロール,,,,,coming soon…,,no
+93,philadelphia roll,SS006,Sushi,Special Roll,,philadelphia roll,フィラデルフィアロール,フィラデルフィアロール,,,,,coming soon…,,no
+94,alaskan roll,SS007,Sushi,Special Roll,,alaskan roll,アラスカンロール,アラスカンロール,,,,,coming soon…,,no
+95,rainbow roll,SS008,Sushi,Special Roll,,rainbow roll,レインボーロール,レインボーロール,,,,,coming soon…,,no
+96,crunchy roll,SS009,Sushi,Special Roll,,crunchy roll,クランチーロール,クランチーロール,,,,,coming soon…,,no
+97,wasabi,OS001,Other,Side,,wasabi root,山葵,山葵,,,,,Paste from Japanese wasabi root.,OK,no
+98,gari,OS002,Other,Side,,pickled ginger,ガリ,ガリ,,,,,coming soon…,OK,no
+99,oshinko,OS003,Other,Side,,pickle daikon,お新香,お新香,,,,,coming soon…,OK,no
+100,edamame,OS004,Other,Side,,pod soybean,枝豆,枝豆,,,,,coming soon…,OK,no
+101,okura,OS005,Other,Side,,okra,オクラ,オクラ,,,,,coming soon…,OK,
+102,miso shiru,OS006,Other,Side,,miso soup,味噌汁,味噌汁,,,,,coming soon…,OK,no
+103,karaage,OS007,Other,Side,,fried chicken,唐揚げ,唐揚げ,,,,,coming soon…,OK,no
+104,dashimaki tamago,OS008,Other,Side,,egg roll,だし巻き卵,だし巻き卵,,,,,coming soon…,OK,no
+105,croquette,OS009,Other,Side,,croquette,コロッケ,コロッケ,,,,,coming soon…,OK,no
+106,potato salad,OS010,Other,Side,,potato salad,ポテトサラダ,ポテトサラダ,,,,,coming soon…,OK,
+107,chawan mushi,OS011,Other,Side,,steamed egg custard,茶碗蒸し,茶碗蒸し,,,,,coming soon…,OK,no
+108,annin tofu,OD001,Other,Dessert,,jelly pudding,杏仁豆腐,杏仁豆腐,,,,,coming soon…,OK,no
+109,mochi ice (vanilla),OD002,Other,Dessert,,rice cake w/vanilla ice cream,餅アイス（バニラ）,餅アイス（バニラ）,,,,,coming soon…,OK,no
+110,mochi ice (strawberry),OD003,Other,Dessert,,rice cake w/straberry ice cream,餅アイス（イチゴ）,餅アイス（イチゴ）,,,,,coming soon…,OK,no
+111,mochi ice (chocolate),OD004,Other,Dessert,,rice cake w/chocolate ice cream,餅アイス（チョコ）,餅アイス（チョコ）,,,,,coming soon…,OK,no
+112,mochi ice (matcha),OD005,Other,Dessert,,rice cake w/green tea ice cream,餅アイス（抹茶）,餅アイス（抹茶）,,,,,coming soon…,OK,no
+113,parfait (vanilla),OD006,Other,Dessert,,parfait w/vanilla ice cream,パフェ（バニラ）,パフェ（バニラ）,,,,,coming soon…,OK,no
+114,parfait (strawberry),OD007,Other,Dessert,,parfait w/straberry ice cream,パフェ（イチゴ）,パフェ（イチゴ）,,,,,coming soon…,OK,
+115,parfait (chocolate),OD008,Other,Dessert,,parfait w/chocolate ice cream,パフェ（チョコ）,パフェ（チョコ）,,,,,coming soon…,OK,
+116,parfait (matcha),OD009,Other,Dessert,,parfait w/green tea ice cream,パフェ（抹茶）,パフェ（抹茶）,,,,,coming soon…,OK,
+117,ice cream (vanilla with red beans),OD010,Other,Dessert,,vanilla ice cream w/red beans,バニラアイス,バニラアイス,,,,,coming soon…,OK,no
+118,ice cream (matcha),OD011,Other,Dessert,,green tea ice cream,抹茶アイス,抹茶アイス,,,,,coming soon…,OK,no
+119,cheese cake,OD012,Other,Dessert,,cheese cake,チーズケーキ,チーズケーキ,,,,,coming soon…,,no
+120,chocolate cake,OD013,Other,Dessert,,chocolate cake,チョコレートケーキ,チョコレートケーキ,,,,,coming soon…,,no
+121,purin,OD014,Other,Dessert,,caramel pudding,プリン,プリン,,,,,coming soon…,,no
+122,fruits,OD015,Other,Dessert,,fruits,フルーツ,フルーツ,,,,,coming soon…,,no
+123,kakigori (melon),OD016,Other,Dessert,,shaved ice (melon),カキ氷,カキ氷,,,,,coming soon…,,no
+124,kakigori (ichigo),OD017,Other,Dessert,,shaved ice (strawberry),カキ氷,カキ氷,,,,,coming soon…,,no
+125,kakigori (ramune),OD018,Other,Dessert,,shaved ice (ramune),カキ氷,カキ氷,,,,,coming soon…,,no
+126,ocha,OI001,Other,Drinks,,tea,お茶,お茶,,,,,coming soon…,,no
+127,coffee,OI002,Other,Drinks,,coffee,コーヒー,コーヒー,,,,,coming soon…,,no
+128,ohiya,OI003,Other,Drinks,,cold water,お冷,お冷,,,,,coming soon…,,no
+129,ringo juice,OI004,Other,Drinks,,apple juice,りんごジュース,りんごジュース,,,,,coming soon…,,
+130,orange juice,OI005,Other,Drinks,,orange juice,オレンジジュース,オレンジジュース,,,,,coming soon…,,no
+131,melon soda,OI006,Other,Drinks,,melon flavored soda,メロンソーダ,メロンソーダ,,,,,coming soon…,,
+132,nama,OI007,Other,Drinks,,draft beer,生,生,,,,,coming soon…,,no
+133,bin beer,OI008,Other,Drinks,,bottle beer,瓶ビール,瓶ビール,,,,,coming soon…,,
+134,basashi,SP001,Other,Special Raw,,raw horse,馬刺し,馬刺し,raw,,,,coming soon…,,
+135,gyusashi,SP002,Other,Special Raw,,raw beef,牛刺し,牛刺し,raw,,,,coming soon…,,
+136,torisashi,SP003,Other,Special Raw,,raw chicken,鳥刺し,鳥刺し,raw,,,,coming soon…,,
+137,gyoza,SP004,Other,Special Side,,fried dumpling,餃子,餃子,fried,,,,coming soon…,,no
+138,gyu kalbi,SP005,Other,Special Side,,barbecue beef,牛カルビ,牛カルビ,,,,,coming soon…,,RARE
+139,chashu,SP006,Other,Special Side,,stewed pork,チャーシュー,チャーシュー,,,,,coming soon…,,RARE
+140,hamburg,SP007,Other,Special Side,,meat loaf,ハンバーグ,ハンバーグ,,,,,coming soon…,,RARE
+141,bacon,SP008,Other,Special Side,,bacon,ベーコン,ベーコン,,,,,coming soon…,,RARE
+142,yasai tempura,SP009,Other,Special Side,,deep fried vegetables,野菜天ぷら,野菜天ぷら,,,,,coming soon…,,RARE
+143,shishamo ten,SP010,Other,Special Side,,deep fried smelt,ししゃも天,ししゃも天,,,,,coming soon…,,RARE
+144,chicken teriyaki,SP011,Other,Special Dish,,glazed chicken,チキン照り焼き,チキン照り焼き,,,,,coming soon…,,RARE
+145,unajyu,SP012,Other,Special Dish,,grilled eel on rice,うな重,うな重,,,,,coming soon…,,no
+146,soba,SP013,Other,Special Noodle,,buckwheat noodle,蕎麦,蕎麦,noodle,,,,coming soon…,,no
+147,ramen,SP014,Other,Special Noodle,,ramen noodle,拉麺,拉麺,noodle,,,,coming soon…,,no
+148,udon,SP015,Other,Special Noodle,,wheat flour noodle,うどん,うどん,noodle,,,,coming soon…,,
+149,gomoku zushi,SP016,Other,Special Bowl,,five ingredient bowl,五目寿司,五目寿司,bowl,,,,Five ingredients usually including shellfish mixed into vinegar rice. Go is Japanese for 'Five'.,,RARE
+150,chirashi zushi,SP017,Other,Special Bowl,,sushi bowl,ちらし寿司,ちらし寿司,,,,,coming soon…,,RARE
+151,tekka don,SP018,Other,Special Bowl,,tuna rice bowl,鉄火丼,鉄火丼,,,,,coming soon…,,
+152,salmon don,SP019,Other,Special Bowl,,salmon rice bowl,サーモン丼,サーモン丼,,,,,coming soon…,,
+153,tendon,SP020,Other,Special Bowl,,deep fried ingredients on rice,天どん,天どん,,,,,coming soon…,,no
